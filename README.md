@@ -13,7 +13,7 @@
 - 🐳 DevOps-minded with a love for Docker and automation
 - 🎨 Designing sleek UI/UX in **Figma** and implementing them with **React & HTML/CSS**
 - 🌱 Currently learning: **Blazor**, **Azure**, and **CI/CD pipelines**
-- 📫 Reach me at: `prakritikhatiwadappp@gmail.com` *(update with your actual email)*
+- 📫 Reach me at: `prakritikhatiwadappp@gmail.com` 
 
 ---
 
